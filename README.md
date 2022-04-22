@@ -44,6 +44,6 @@ Users should be able to:
 
 - Website - [Lucas Silva](https://www.lfsdev.com.br)
 - Frontend Mentor - [@lucasfs022](https://www.frontendmentor.io/profile/lucasfs022)
-- Linkedin - [Lucas Silva](linkedin.com/in/lucas-silva-658980161)
+- Linkedin - [Lucas Silva](https://www.linkedin.com/in/lucas-silva-658980161)
 
 
