@@ -17,6 +17,7 @@ a {
 
 h1 {
     color: hsl(238, 29%, 16%);
+    font-size: 2rem;
 }
 
 body {
